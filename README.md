@@ -25,7 +25,7 @@
 
 I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham  ,with a deep passion for Full Stack Development, Data Science, and Machine Learning. My hands-on experience extends to building PCs, deploying servers, and managing computer networks. I focus on writing reusable, testable, and efficient code to deliver robust, user-centric software solutions.
 
-]🔭 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS.
+🔭 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS.
 🏠 My hobby is my **DIY Home Lab**, where I have engineered a complete server ecosystem including a PoE-based NAS, a self-hosted website, a VPN, a Dockerized DNS ad-blocker, and a Kubernetes cluster.
 🔐 I have developed projects in blockchain security, implementing a **Quantum-Secure Ledger** with ECDSA and Proof-of-Work mining.
 💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, Networking, and practical AI applications**.
