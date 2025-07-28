@@ -23,12 +23,12 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham [cite: 79, 80] [cite_start]with a deep passion for Full Stack Development, Data Science, and Machine Learning[cite: 8]. [cite_start]My hands-on experience extends to building PCs, deploying servers, and managing computer networks[cite: 8]. [cite_start]I focus on writing reusable, testable, and efficient code to deliver robust, user-centric software solutions[cite: 9].
+I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham  ,with a deep passion for Full Stack Development, Data Science, and Machine Learning. My hands-on experience extends to building PCs, deploying servers, and managing computer networks. I focus on writing reusable, testable, and efficient code to deliver robust, user-centric software solutions.
 
-- [cite_start]🔭 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS[cite: 12, 13, 14, 16].
-- [cite_start]🏠 My hobby is my **DIY Home Lab**, where I have engineered a complete server ecosystem including a PoE-based NAS, a self-hosted website, a VPN, a Dockerized DNS ad-blocker, and a Kubernetes cluster[cite: 27, 28].
-- [cite_start]🔐 I have developed projects in blockchain security, implementing a **Quantum-Secure Ledger** with ECDSA and Proof-of-Work mining[cite: 44, 45, 46].
-- [cite_start]💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, Networking, and practical AI applications**[cite: 10].
+]🔭 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS.
+🏠 My hobby is my **DIY Home Lab**, where I have engineered a complete server ecosystem including a PoE-based NAS, a self-hosted website, a VPN, a Dockerized DNS ad-blocker, and a Kubernetes cluster.
+🔐 I have developed projects in blockchain security, implementing a **Quantum-Secure Ledger** with ECDSA and Proof-of-Work mining.
+💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, Networking, and practical AI applications**.
 
 ---
 
