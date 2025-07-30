@@ -21,18 +21,18 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham  ,with a deep passion for Full Stack Development, Data Science, and Machine Learning. My hands-on experience extends to building PCs, deploying servers, and managing computer networks. I focus on writing reusable, testable, and efficient code to deliver robust, user-centric software solutions.
 
-🔭 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS.
-🏠 My hobby is my **DIY Home Lab**, where I have engineered a complete server ecosystem including a PoE-based NAS, a self-hosted website, a VPN, a Dockerized DNS ad-blocker, and a Kubernetes cluster.
-🔐 I have developed projects in blockchain security, implementing a **Quantum-Secure Ledger** with ECDSA and Proof-of-Work mining.
-💬 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, Networking, and practical AI applications**.
+0 As a Project Intern at **SONY-SSUP**, I am developing an Edge-based Cyber-Physical System for smart agriculture, working with technologies like Spresense, STM, and FreeRTOS.
+0 My hobby is my **DIY Home Lab**, where I have engineered a complete server ecosystem including a PoE-based NAS, a self-hosted website, a VPN, a Dockerized DNS ad-blocker, and a Kubernetes cluster.
+0 I have developed projects in blockchain security, implementing a **Quantum-Secure Ledger** with ECDSA and Proof-of-Work mining.
+0 I'm always excited to discuss and collaborate on projects involving **Distributed Systems, Networking, and practical AI applications**.
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 #### Programming Languages
 <p>
@@ -75,7 +75,7 @@ I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham  ,with a de
 
 ---
 
-### 📊 My Coding Languages
+###  My Coding Languages
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshaGuntreddi&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" alt="HarshaGuntreddi's Top Languages" />
@@ -83,7 +83,7 @@ I am a B.Tech Computer Science student at Amrita Vishwa Vidyapeetham  ,with a de
 
 ---
 
-### 🐍 My Contribution Graph is a Snake!
+###  My Contribution Graph is a Snake!
 
 <p align="center">
   <img src="https://github.com/HarshaGuntreddi/HarshaGuntreddi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
