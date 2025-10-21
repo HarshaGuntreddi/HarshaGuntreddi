@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </p>
-### Current Experience
+Current Experience
 
 <p>
   <a href="https://www.sony.com" target="_blank">
@@ -110,7 +110,7 @@ Skills Matrix
 - **Tools:** Git, Linux (Ubuntu), IntelliJ IDEA, Postman, WireMock, Wireshark  
 
 ---
-] Certifications & Coursework
+Certifications & Coursework
 
 - **AWS Academy Graduate** (Cloud Foundations; Data Engineering)  
 - **IIT Madras workshops** (AI/ML; IoT on Raspberry Pi)  
