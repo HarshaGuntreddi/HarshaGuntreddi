@@ -20,15 +20,7 @@
   <a href="mailto:harshavguntreddi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://about-harsha.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
-</div>
-
----
-Still me:
-- Full-stack curiosity, practical AI interest️
-- **DIY Home Lab**: PoE NAS, self-hosted web, VPN, Dockerized DNS ad-blocker, K8s cluster
-- Into **Distributed Systems, Networking, and real-world ML** experiments
-
----
+</div> 
 
 ### Tech Stack
 
@@ -98,7 +90,7 @@ Still me:
 • **Observability** (logs/metrics/traces), Agile/Scrum, design docs & code reviews
 
 
-###Featured Projects
+Featured Projects
 
 - **Real-Time Payment Authorization Microservice** — Spring Boot + Kafka, idempotent REST, Sagas, PL/SQL, p95 < 50ms, OAuth2/mTLS, shipped to K8s.  
 - **Card Tokenization & Vault** — PCI-aware patterns, FPE via Vault/SoftHSM, RBAC, key rotation, Pact + Testcontainers.  
@@ -107,7 +99,7 @@ Still me:
 
 ---
 
-### Skills Matrix (readable)
+Skills Matrix 
 
 - **Languages:** Java 17, C/C++17, Python, SQL/PL-SQL, Bash  
 - **Backend:** Spring Boot 3 (Web, Data JPA, Security, Validation), REST, Kafka, Redis, Oracle, PostgreSQL, MongoDB  
@@ -118,8 +110,7 @@ Still me:
 - **Tools:** Git, Linux (Ubuntu), IntelliJ IDEA, Postman, WireMock, Wireshark  
 
 ---
-
-###  Certifications & Coursework
+] Certifications & Coursework
 
 - **AWS Academy Graduate** (Cloud Foundations; Data Engineering)  
 - **IIT Madras workshops** (AI/ML; IoT on Raspberry Pi)  
