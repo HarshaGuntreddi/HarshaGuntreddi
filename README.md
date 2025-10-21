@@ -23,19 +23,14 @@
 </div>
 
 ---
-
-### 👋 About Me
-
-I’m a Software Engineer who loves turning ambiguous ideas into production systems. I build distributed, fault-tolerant microservices in **Java 17 / Spring Boot 3**, speak **Kafka** natively, and ship with **Docker + Kubernetes** on **AWS/GCP**. I also hop down the stack for **C/C++** on **ESP32/Sony Spresense** when a project touches the physical world.
-
 Still me:
-- Full-stack curiosity ✔️, practical AI interest ✔️
+- Full-stack curiosity, practical AI interest️
 - **DIY Home Lab**: PoE NAS, self-hosted web, VPN, Dockerized DNS ad-blocker, K8s cluster
 - Into **Distributed Systems, Networking, and real-world ML** experiments
 
 ---
 
-### 🛠️ Tech Stack (quick badges)
+### Tech Stack
 
 <!-- Languages -->
 <p>
@@ -92,7 +87,7 @@ Still me:
 
 ---
 
-### 💼 Current Experience
+### Current Experience
 
 **Project Intern — SONY-SSUP (Dec 2024 → Sep 2025)**  
 • Device APIs on **ESP32/Spresense (C/C++)** over secure **MQTT/HTTPS**  
@@ -101,7 +96,7 @@ Still me:
 
 ---
 
-### 🚀 Featured Projects
+###Featured Projects
 
 - **Real-Time Payment Authorization Microservice** — Spring Boot + Kafka, idempotent REST, Sagas, PL/SQL, p95 < 50ms, OAuth2/mTLS, shipped to K8s.  
 - **Card Tokenization & Vault** — PCI-aware patterns, FPE via Vault/SoftHSM, RBAC, key rotation, Pact + Testcontainers.  
@@ -110,7 +105,7 @@ Still me:
 
 ---
 
-### 🧭 Skills Matrix (readable)
+### Skills Matrix (readable)
 
 - **Languages:** Java 17, C/C++17, Python, SQL/PL-SQL, Bash  
 - **Backend:** Spring Boot 3 (Web, Data JPA, Security, Validation), REST, Kafka, Redis, Oracle, PostgreSQL, MongoDB  
@@ -122,7 +117,7 @@ Still me:
 
 ---
 
-### 🎓 Certifications & Coursework
+###  Certifications & Coursework
 
 - **AWS Academy Graduate** (Cloud Foundations; Data Engineering)  
 - **IIT Madras workshops** (AI/ML; IoT on Raspberry Pi)  
@@ -130,12 +125,12 @@ Still me:
 
 ---
 
-### 📊 Top Languages
+### Top Languages
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshaGuntreddi&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=39FF14" />
 </p>
 
-### 🐍 Contribution Graph
+###  Contribution Graph
 <p align="center">
   <img src="https://github.com/HarshaGuntreddi/HarshaGuntreddi/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
