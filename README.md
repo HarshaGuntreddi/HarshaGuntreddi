@@ -88,16 +88,11 @@ Still me:
 ---
 ### Current Experience
 
-<p>
-  <a href="https://www.sony.com" target="_blank">
-    <img src="https://img.shields.io/badge/SONY%20SSUP-000000?style=for-the-badge&logo=sony&logoColor=white" alt="SONY SSUP">
-  </a>
-</p>
-
-**Project Intern — SONY-SSUP (Dec 2024 → Sep 2025)**  
+**Project Intern — <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sony_logo.svg" alt="Sony" height="16" style="vertical-align:middle; margin-top:-2px;"> SONY-SSUP (Dec 2024 → Sep 2025)**  
 • Device APIs on **ESP32/Spresense (C/C++)** over secure **MQTT/HTTPS**  
 • CI/CD with **GitHub Actions**, containerized services for **Kubernetes**  
 • **Observability** (logs/metrics/traces), Agile/Scrum, design docs & code reviews
+
 
 
 ###Featured Projects
